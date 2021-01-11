@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "postcss-preset-env": {
+      "browser": "cover 99.5%",
+      "stage": 0
+    },
+    "cssnano": {
+      "preset": "default"
+    }
+  }
+}
